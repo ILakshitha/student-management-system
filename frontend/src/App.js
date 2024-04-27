@@ -6,13 +6,14 @@ import Header from './component/Header';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello React </h1>
-      <CounterClass/>
-      <CounterFunction/> 
-      <Headers/>
+    
+    <dev>
+      <Header/>
 
-    </div>
+    </dev>
+     
+
+    
   );
 }
 
